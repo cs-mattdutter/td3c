@@ -18,7 +18,7 @@ const Results2025 = () => {
           <div className="container mx-auto px-4 py-20">
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-4xl md:text-6xl font-bold text-white mb-8">
-                PODIUM COURSE DES TROIS CLOCHERS
+                PODIUM 2025
               </h1>
               <div className="bg-white/90 backdrop-blur rounded-lg shadow-lg p-8 max-w-5xl mx-auto">
                 <div className="text-left text-gray-800 space-y-6">
