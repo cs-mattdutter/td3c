@@ -127,7 +127,7 @@ const PracticalInfo = () => {
                   <p>Parking gratuit à proximité du départ</p>
                   <div className="mt-4">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890.0461095043837!2d4.349897776226654!3d43.91476997107676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b42d009b3809f%3A0x4078821166b4080!2s208%20Chem.%20du%20Rieu%2C%2030190%20Sainte-Anastasie!5e0!3m2!1sfr!2sfr!4v1709667547943!5m2!1sfr!2sfr"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11491.007026420084!2d4.321994276314869!3d43.94381098743441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b4340c6a53f1b1%3A0x600caaafe10d51ed!2sAubarne%2C%2030190%20Sainte-Anastasie!5e0!3m2!1sfr!2sfr!4v1757438993776!5m2!1sfr!2sfr"
                       width="100%"
                       height="400"
                       style={{ border: 0 }}
@@ -136,6 +136,16 @@ const PracticalInfo = () => {
                       referrerPolicy="no-referrer-when-downgrade"
                       className="rounded-lg"
                     ></iframe>
+                    <div className="mt-4 text-center">
+                      <a 
+                        href="https://maps.app.goo.gl/9WcvFvniqncZ8uip8" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="inline-block bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-colors"
+                      >
+                        Ouvrir dans Google Maps
+                      </a>
+                    </div>
                   </div>
                 </div>
               </div>
