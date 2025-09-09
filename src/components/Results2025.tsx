@@ -67,7 +67,7 @@ const Results2025 = () => {
                 <div className="text-center mb-6">
                   <h3 className="text-4xl font-bold text-gray-800 mb-2">22km</h3>
                   <p className="text-lg font-bold text-orange-500 mb-1">650 D+</p>
-                  <p className="text-sm italic text-gray-600 mb-4">Trail de Bonnelli</p>
+                  <p className="text-sm italic text-gray-600 mb-4">Trail de Bonelli</p>
                   
                   {/* GPX 3D Button */}
                   <div className="flex justify-center mb-4">
