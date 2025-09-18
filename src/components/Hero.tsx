@@ -10,7 +10,7 @@ const Hero = () => {
 
   useEffect(() => {
     const calculateTimeLeft = () => {
-      const eventDate = new Date('2026-03-19T09:00:00').getTime();
+      const eventDate = new Date('2026-04-05T09:00:00').getTime();
       const now = new Date().getTime();
       const difference = eventDate - now;
 
@@ -48,7 +48,7 @@ const Hero = () => {
               Trails des 3 clochers 2026
             </h1>
             <p className="text-xl md:text-2xl text-white mb-8">
-              Rejoignez-nous le 19 mars 2026 pour une aventure inoubliable à travers des paysages exceptionnels
+              Rejoignez-nous le 05 avril 2026 pour une aventure inoubliable à travers des paysages exceptionnels
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
               <a

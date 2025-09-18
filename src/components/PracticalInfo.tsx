@@ -99,12 +99,12 @@ const PracticalInfo = () => {
               <div className="space-y-4">
                 <div className="bg-white p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">La veille de la course</h4>
-                  <p>Vendredi 19 mars 2025 de 14h à 19h</p>
+                  <p>Vendredi 04 avril 2026 de 14h à 19h</p>
                   <p>Salle des fêtes de Sainte-Anastasie</p>
                 </div>
                 <div className="bg-white p-4 rounded-lg">
                   <h4 className="font-semibold mb-2">Le jour de la course</h4>
-                  <p>Samedi 20 mars 2025 à partir de 7h30</p>
+                  <p>Samedi 05 avril 2026 à partir de 7h30</p>
                   <p>Sur place, au village départ</p>
                 </div>
                 <div className="mt-4">

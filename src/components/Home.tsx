@@ -17,7 +17,7 @@ const Home = () => {
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-md">
               <Calendar className="w-12 h-12 text-green-600 mb-4" />
               <h3 className="text-xl font-semibold mb-2">Date</h3>
-              <p className="text-gray-600 text-center">20 Mars 2025</p>
+              <p className="text-gray-600 text-center">05 Avril 2025</p>
             </div>
             <div className="flex flex-col items-center p-6 bg-white rounded-lg shadow-md">
               <MapPin className="w-12 h-12 text-green-600 mb-4" />
