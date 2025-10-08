@@ -24,6 +24,7 @@ const Navbar = () => {
               <a href="#infos-pratiques" className="px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Infos pratiques</a>
               <a href="#sponsors" className="px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Partenaires</a>
               <Link to="/resultats" className="px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Résultats 2025</Link>
+              <Link to="/a-propos" className="px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">À propos</Link>
               <a 
                 href="https://www.endurancechrono.com/inscription/fr/La_course_des_3_clochers_4" 
                 target="_blank" 
@@ -53,6 +54,7 @@ const Navbar = () => {
               <a href="#infos-pratiques" className="block px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Infos pratiques</a>
               <a href="#sponsors" className="block px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Partenaires</a>
               <Link to="/resultats" className="block px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">Résultats 2025</Link>
+              <Link to="/a-propos" className="block px-3 py-2 rounded-md text-[#1D3A2A] hover:bg-[#16a34a] hover:text-white transition-colors duration-200 font-medium">À propos</Link>
               <a 
                 href="https://www.endurancechrono.com/inscription/fr/La_course_des_3_clochers_4" 
                 target="_blank" 

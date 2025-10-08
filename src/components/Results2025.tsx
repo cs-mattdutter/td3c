@@ -40,7 +40,6 @@ const Results2025 = () => {
                   <div className="bg-gray-50 p-6 rounded-lg">
                     <p className="text-base leading-relaxed mb-4">
                       Vous pouvez nous contacter sur <a href="mailto:trailenvrac@gmail.com" className="text-green-600 hover:text-green-700 font-semibold">trailenvrac@gmail.com</a> 
-                      ou au <a href="tel:0659643343" className="text-green-600 hover:text-green-700 font-semibold">06 59 64 33 43</a> patrice
                     </p>
                     
                     <p className="text-base leading-relaxed font-medium text-gray-700">
