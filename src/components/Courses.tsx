@@ -5,32 +5,32 @@ const courses = [
     distance: '31 km',
     name: 'Trail de Bonnelli',
     description: 'Pour les coureurs expérimentés, un parcours technique avec des dénivelés challengeants.',
-    elevation: '+600m',
-    startTime: '9h10',
+    elevation: '+950m',
+    startTime: '8h00',
     image: '/images/gardon.jpg'
   },
   {
     distance: '20 km',
     name: 'Trail des 3 clochers',
     description: 'Un parcours équilibré, idéal pour les coureurs réguliers.',
-    elevation: '+300m',
-    startTime: '9h50',
+    elevation: '+680m',
+    startTime: '9h10',
     image: '/images/pont-saint-nicolas.jpg'
   },
   {
     distance: '10 km',
     name: 'Trail de la cigale',
     description: 'Parfait pour s\'initier au trail ou profiter d\'une course courte mais intense.',
-    elevation: '+200m',
-    startTime: '9h30',
+    elevation: '+220m',
+    startTime: '9h50',
     image: '/images/pont-de-russan.jpg'
   },
   {
     distance: '10 km',
     name: 'Marche',
     description: 'Une belle randonnée pour les marcheurs et les familles.',
-    elevation: '+200m',
-    startTime: '9h30',
+    elevation: '+160m',
+    startTime: '9h15',
     image: '/images/garrigue-et-gorges-du-gardon.jpeg'
   }
 ];

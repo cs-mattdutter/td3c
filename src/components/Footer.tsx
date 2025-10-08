@@ -15,9 +15,9 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4 text-gray-800">Contact</h3>
             <div className="space-y-2">
-              <a href="mailto:contact@trailenvrac.fr" className="text-gray-600 hover:text-green-600 flex items-center gap-2 transition-colors duration-200">
+              <a href="mailto:trailenvrac@gmail.com" className="text-gray-600 hover:text-green-600 flex items-center gap-2 transition-colors duration-200">
                 <Mail className="w-5 h-5" />
-                contact@trailenvrac.fr
+                trailenvrac@gmail.com
               </a>
             </div>
           </div>
